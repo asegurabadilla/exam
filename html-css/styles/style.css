@@ -68,7 +68,7 @@ p{
 }
 /*mark a letter on paragraph*/
 .mark{
-	color:red;
+	color:#AD2A1A;
 	background-color:white;
 	font-weight: bold;
 }
